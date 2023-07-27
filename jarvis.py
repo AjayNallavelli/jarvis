@@ -7,8 +7,8 @@ import subprocess
 import pygame
 import random
 
-# Configure your OpenAI API key here
-OPENAI_API_KEY = "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"
+# Configure your OpenAI API key here 
+OPENAI_API_KEY = ""
 
 def listen():
     recognizer = sr.Recognizer()
